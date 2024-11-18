@@ -227,35 +227,9 @@ attributes that are not empty.
 ### 各种指示器
 ## ScreenShots
 
-### Examples
-
-| Refresh Style |   | Pull Up Load Style | |
-|:---:|:---:|:---:|:---:|
-| RefreshStyle.Follow <br>![Follow](example/images/refreshstyle1.gif)|RefreshStyle.UnFollow <br> ![UnFollow](example/images/refreshstyle2.gif)| LoadStyle.ShowAlways <br>  ![ShowAlways](example/images/loadstyle1.gif) | LoadStyle.HideAlways<br> ![HideAlways](example/images/loadstyle2.gif)|
-| RefreshStyle.Behind <br> ![Behind](example/images/refreshstyle3.gif)| RefreshStyle.Front <br> ![Front](example/images/refreshstyle4.gif)| LoadStyle.ShowWhenLoading<br>  ![ShowWhenLoading](example/images/loadstyle3.gif) | |
-
-| Style | [ClassicIndicator](https://github.com/peng8350/flutter_pulltorefresh/blob/master/lib/src/indicator/classic_indicator.dart) | [WaterDropHeader](https://github.com/peng8350/flutter_pulltorefresh/blob/master/lib/src/indicator/waterdrop_header.dart) | [MaterialClassicHeader](https://github.com/peng8350/flutter_pulltorefresh/blob/master/lib/src/indicator/material_indicator.dart) |
-|:---:|:---:|:---:|:---:|
-| ![Classical Follow](example/images/classical_follow.gif) | ![Warterdrop](example/images/warterdrop.gif) | ![Material Classic](example/images/material_classic.gif) |
-
-| Style | [WaterDropMaterialHeader](https://github.com/peng8350/flutter_pulltorefresh/blob/master/lib/src/indicator/material_indicator.dart) | [Shimmer Indicator](example/lib/ui/example/customindicator/shimmer_indicator.dart) | [Bezier+Circle](https://github.com/peng8350/flutter_pulltorefresh/blob/master/lib/src/indicator/bezier_indicator.dart) |
-|:---:|:---:|:---:|:---:|
-| ![Material Waterdrop](example/images/material_waterdrop.gif) | ![Shimmer Indicator](example/images/shimmerindicator.gif) | ![Bezier](example/images/bezier.gif) |
-
-| Style | [Animate](example/images/animate.gif) | [Custom 1](example/images/custom_1.jpg) | [Custom 2](example/images/custom_2.gif) |
-|:---:|:---:|:---:|:---:|
-| ![Animate](example/images/animate.gif) | ![Custom 1](example/images/custom_1.jpg) | ![Custom 2](example/images/custom_2.gif) |
-
-| Style | [Empty](example/images/empty.png) | [Empty1](example/images/empty1.png) | [Gif Indicator 1](example/images/gifindicator1.gif) |
-|:---:|:---:|:---:|:---:|
-| ![Empty](example/images/empty.png) | ![Empty1](example/images/empty1.png) | ![Gif Indicator 1](example/images/gifindicator1.gif) |
-
-| Style | [QQ BG](example/images/qqbg.jpg) | [Second Floor](example/images/secondfloor.jpg) | [Msg Text Right BG](example/images/msg_text_right_bg.9.png) |
-|:---:|:---:|:---:|:---:|
-| ![QQ BG](example/images/qqbg.jpg) | ![Second Floor](example/images/secondfloor.jpg) | ![Msg Text Right BG](example/images/msg_text_right_bg.9.png) |
 
 
-<a name="child"></a>
+
 
 ## about SmartRefresher's child explain
 
